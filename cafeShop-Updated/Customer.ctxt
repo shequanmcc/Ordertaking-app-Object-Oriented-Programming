@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name\ orderNum\ orderItems
+comment1.target=Customer(java.lang.String,\ int,\ java.util.List)
+comment2.params=name
+comment2.target=Customer(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getCustomerNumber()
+comment5.params=
+comment5.target=java.util.List\ getOrderItems()
+comment6.params=orderItems
+comment6.target=void\ setOrderItems(java.util.List)
+comment7.params=other
+comment7.target=int\ compareTo(Customer)
+numComments=8

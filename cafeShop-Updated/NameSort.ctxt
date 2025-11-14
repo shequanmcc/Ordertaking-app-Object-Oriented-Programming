@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NameSort
+comment1.params=
+comment1.target=NameSort()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ NameSort\r\n
+comment2.params=c1\ c2
+comment2.target=int\ compare(Customer,\ Customer)
+numComments=3
